@@ -7,6 +7,7 @@ Welcome to my GitHub. I'm a recent Data Science graduate interested in the appli
 
 - 🔍 **About Me:**  
   - I have taken a focus on the process of data storytelling from transforming and cleaning data into narratives to create impactful reports that are easy to understand and provide insight to informed decision making.
+  -  I have experience in using Python, R, SQL, Excel and Power BI.
 ---
 
 ## 📊 Projects
