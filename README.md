@@ -15,7 +15,7 @@ Welcome to my GitHub. I'm a recent Data Science graduate interested in the appli
 
 | Project | Tools & Libraries | Description |
 |--------|-------------------------|-------------|
-| [Data Cleaning of financial transaction data](https://github.com/dtan20441/portfolio_transaction_cleaning) | ![Python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas) ![Jupyter](https://img.shields.io/badge/-jupyter notebook-F37626?logo=jupyter&logoColor=white) | Comprehensive data cleaning of dummy data containing missing values, inconsistent values, outliers and invalid entries. |
+| [Data Cleaning of financial transaction data](https://github.com/dtan20441/portfolio_transaction_cleaning) | ![Python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas) ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white) | Comprehensive data cleaning of dummy data containing missing values, inconsistent values, outliers and invalid entries. |
 
 ### 📝 Reporting
 
