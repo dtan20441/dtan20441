@@ -6,8 +6,8 @@ Welcome to my GitHub. I'm a recent Data Science graduate interested in the appli
   - Bachelor of Science (Major: Data Science. Minor: Statisics) from the University of Sydney
 
 - 🔍 **About Me:**  
-  - I have developed an interest in the process of data storytelling — transforming and cleaning data into clear, engaging narratives, and producing impactful reports that are easy to understand and support informed decision-making.
-  -  I have experience in using Python, R, SQL, Excel and Power BI.
+  - Strong interest in the process of data storytelling — transforming and cleaning data into clear, engaging narratives, and producing impactful reports that are easy to understand and support informed decision-making.
+  -  I have experience in using Python, R, SQL, Excel, Tableau and Power BI.
 ---
 
 ## 📊 Projects
